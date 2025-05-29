@@ -40,7 +40,9 @@ Here's what to expect in future updates:
 Stay tuned and star ⭐ this repo if you'd like to follow along!
 
 ## 📜 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code with proper attribution.
+All projects in this repository are © 2025 Saurabh Kudesia and licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided that proper attribution is given and the original license notice is retained. Please note that portions of the projects — such as datasets, code references, or assets — may be sourced from third-party providers and remain subject to their respective licenses and terms of use. 
+Some icons used in this repository are provided by [Font Awesome](https://fontawesome.com), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 
 ## 🤝 Contributing
 Have ideas or suggestions? Contributions are welcome!
