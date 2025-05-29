@@ -1,7 +1,9 @@
 # Machine Learning in Action: Real-World AI Projects
 Welcome to my public repository dedicated to showcasing a growing collection of AI and machine learning projects. These projects reflect experimentation, learning, and application across various domains of artificial intelligence.
 
-> ⚠️ **Note:** This repository is an ongoing project and is continuously evolving. New AI and ML projects will be added regularly, so stay tuned for exciting updates!
+> ⚠️ **Note**
+>
+> This repository is an ongoing project and is continuously evolving. New AI and ML projects will be added regularly, so stay tuned for exciting updates!
 
 ## 🚀 What's Inside?
 
