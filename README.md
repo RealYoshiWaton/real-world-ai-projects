@@ -6,15 +6,15 @@ Welcome to my public repository dedicated to showcasing a growing collection of 
 > This repository is an ongoing project and is continuously evolving. New AI and ML projects will be added regularly, so stay tuned for exciting updates!
 
 ## 🚀 What's Inside?
-This repository will feature practical and research-inspired projects in:
-- Deep Learning & Neural Networks  
-- Supervised & Unsupervised Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Reinforcement Learning  
-- Time-Series Forecasting  
-- MLOps & Model Deployment  
-
+This repository features practical and research-driven projects in:
+- Structured Exploratory Data Analysis (EDA)
+- Deep Learning and Neural Networks
+- Supervised and Unsupervised Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Reinforcement Learning
+- Time Series Forecasting
+- MLOps and Model Deployment
 Each project will be self-contained with code, documentation, and instructions.
 
 ## 📂 Planned Repository Structure
