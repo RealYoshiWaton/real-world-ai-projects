@@ -7,7 +7,7 @@ Welcome to my public repository dedicated to showcasing a growing collection of 
 
 ## 🚀 What's Inside?
 This repository features practical and research-driven projects in:
-- [Structured Exploratory Data Analysis (EDA)]
+- Structured Exploratory Data Analysis (EDA)
    - [Uncovering Trends in Netflix Content](structured-eda/uncovering-trends-in-netflix-content/)
 - Deep Learning and Neural Networks
 - Supervised and Unsupervised Learning
