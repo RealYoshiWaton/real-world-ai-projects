@@ -17,14 +17,19 @@ This repository features practical and research-driven projects in:
 - MLOps and Model Deployment
 Each project will be self-contained with code, documentation, and instructions.
 
-## 📂 Planned Repository Structure
+## 📂 Repository Structure
 
 ```
-/project-name/
-│
-├── source/             # Jupyter notebooks with source code, model pipelines, and dependencies
-├── data/               # Sample data or data loaders
-├── README.md           # Project-specific documentation
+real-world-ai-projects/
+├── README.md                      # Overview of the entire repository
+├── LICENSE                        # Repository license and usage terms
+├── project-category/              # Thematic or functional grouping of related projects
+│   └── project-name/              # Individual project directory
+│       ├── README.md              # Documentation specific to this project
+│       ├── data/                  # Raw data files or scripts to load datasets
+│       ├── source/                # Jupyter notebooks and source code for analysis and modeling
+│       ├── requirements.txt       # List of Python dependencies for this project
+
 ```
 
 ## 📅 Roadmap
