@@ -56,6 +56,6 @@ Have ideas or suggestions? Contributions are welcome!
 - Check each project's README for contribution guidelines (if any)
 
 ## 💬 Let's Connect
-Feel free to reach out or connect:
-- [Email](mailto:saurabhkudesia@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/saurabhkudesia/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saurabh-kudesia)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saurabhkudesia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkudesia/)
