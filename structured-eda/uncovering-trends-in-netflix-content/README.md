@@ -88,6 +88,7 @@ jupyter notebook source/uncovering-trends-in-netflix-content-sk.ipynb
 
 ### License
 © 2025 Saurabh Kudesia
+
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided you include proper attribution and retain the license notice.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
