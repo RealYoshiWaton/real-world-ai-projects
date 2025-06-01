@@ -22,7 +22,7 @@ Each project will be self-contained with code, documentation, and instructions.
 ```
 /project-name/
 │
-├── notebooks/          # Jupyter notebooks with source code, model pipelines, and dependencies
+├── source/             # Jupyter notebooks with source code, model pipelines, and dependencies
 ├── data/               # Sample data or data loaders
 ├── README.md           # Project-specific documentation
 ```
