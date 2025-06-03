@@ -1,12 +1,14 @@
 # Uncovering Trends in Netflix Content: What's Hot and What's Not
 #### By *Saurabh Kudesia* | May 2025
-[GitHub](https://github.com/saurabh-kudesia) | [Kaggle](https://www.kaggle.com/saurabhkudesia) | [LinkedIn](https://www.linkedin.com/in/saurabhkudesia/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saurabh-kudesia)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saurabhkudesia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkudesia/)
 
 ---
 ## Description
 [Netflix](http://netflix.com/), one of the world's largest streaming platforms, offers a vast catalog of movies and TV shows spanning genres, countries, and decades. As the entertainment industry becomes increasingly data-driven, it is valuable to analyze what content Netflix provides, how it has evolved over time, and what patterns exist across titles, formats, and regions.
 
-### Goals
+## Goals
 The primary goal of this analysis is to explore and uncover insights from Netflix's content catalog using structured exploratory data analysis. Specifically, we aim to:
 
 - Understand the composition and evolution of Netflix's catalog  
@@ -14,7 +16,7 @@ The primary goal of this analysis is to explore and uncover insights from Netfli
 - Examine trends over time in content type  
 - Investigate content diversity across regions and years    
 
-### Key Themes
+## Key Themes
 The analysis is structured around the following key themes:
 
 - **Catalog Composition:** Is Netflix leaning more toward Movies or TV Shows?  
@@ -22,7 +24,7 @@ The analysis is structured around the following key themes:
 - **Temporal Analysis:** How has content volume and type evolved over time?  
 - **Duration Trends:** What is the typical length of Netflix content?
 
-### Data Dictionary
+## Data Dictionary
 This project utilizes a dataset sourced from
 [Kaggle](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset), provided by [Octopusteam](https://www.kaggle.com/octopusteam). It contains detailed metadata about Netflix's content.
 
@@ -41,7 +43,7 @@ This project utilizes a dataset sourced from
 ├── requirements.txt    # Python dependencies and versions
 ├── README.md           # Project-specific documentation
 ```
-### Requirements
+## Requirements
 This project requires Python 3.8 or higher and Jupyter Notebook.
 
 All required Python packages and their exact versions are listed in the [`requirements.txt`](./requirements.txt) file.
@@ -51,17 +53,17 @@ To install the dependencies, run the following command in your terminal or comma
 ```bash
 pip install -r requirements.txt
 ```
-### Getting Started
+## Getting Started
 To run this project locally and reproduce the analysis, follow these steps:
 
-#### 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/saurabh-kudesia/real-world-ai-projects.git
 cd real-world-ai-projects/structured-eda/uncovering-trends-in-netflix-content/
 ````
 
-#### 2. Set Up the Environment
+### 2. Set Up the Environment
 Create a virtual environment (recommended) and install dependencies.
 
 * **Using `pip`:**
@@ -78,7 +80,7 @@ Or manually install core libraries if `requirements.txt` is not present:
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-#### 3. Launch the Jupyter Notebook
+### 3. Launch the Jupyter Notebook
 > ⚠️ Make sure you have Python installed, along with Jupyter Notebook.
 > Specific package versions are listed in [`requirements.txt`](./requirements.txt).
 
@@ -86,7 +88,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook source/uncovering-trends-in-netflix-content-sk.ipynb
 ```
 
-### License
+## License
 © 2025 Saurabh Kudesia
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided you include proper attribution and retain the license notice.
