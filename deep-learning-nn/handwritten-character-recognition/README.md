@@ -8,6 +8,11 @@
 ## Context  
 The EMNIST dataset extends the MNIST dataset by providing handwritten characters derived from the [NIST Special Database 19](https://www.nist.gov/srd/nist-special-database-19). It consists of 28x28 pixel images formatted to be compatible with MNIST. Details on the dataset and its conversion are available in the original paper: [https://arxiv.org/abs/1702.05373v1](https://arxiv.org/abs/1702.05373v1).
 
+> > 🔧🚧 **Heads-up: This Code Is a Work in Progress**
+>
+> I'm continuously improving and refining the code as time allows, but there’s no fixed schedule for updates or new features.
+
+
 ## Dataset  
 This project uses the **EMNIST Letters** split, featuring 145,600 samples across 26 balanced letter classes. Additional resources:  
 
@@ -19,14 +24,6 @@ This project uses the **EMNIST Letters** split, featuring 145,600 samples across
 **Citation:**  
 Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters.  
 Retrieved from [http://arxiv.org/abs/1702.05373](https://arxiv.org/abs/1702.05373v1)
-
-## Data Dictionary
-This project utilizes a dataset sourced from
-[Kaggle](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset), provided by [Octopusteam](https://www.kaggle.com/octopusteam). It contains detailed metadata about Netflix's content.
-
-> > 🔧🚧 **Heads-up: This Code Is a Work in Progress**
->
-> I'm continuously improving and refining the code as time allows, but there’s no fixed schedule for updates or new features.
 
 ## Folder Structure
 ```
