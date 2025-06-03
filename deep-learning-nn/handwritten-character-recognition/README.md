@@ -1,6 +1,8 @@
 # Handwritten Character Recognition with EMNIST
 #### By *Saurabh Kudesia* | June 2025
-[GitHub](https://github.com/saurabh-kudesia) | [Kaggle](https://www.kaggle.com/saurabhkudesia) | [LinkedIn](https://www.linkedin.com/in/saurabhkudesia/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saurabh-kudesia)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saurabhkudesia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkudesia/)
 
 ---
 ## Context  
@@ -18,7 +20,7 @@ This project uses the **EMNIST Letters** split, featuring 145,600 samples across
 Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters.  
 Retrieved from [http://arxiv.org/abs/1702.05373](https://arxiv.org/abs/1702.05373v1)
 
-### Data Dictionary
+## Data Dictionary
 This project utilizes a dataset sourced from
 [Kaggle](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset), provided by [Octopusteam](https://www.kaggle.com/octopusteam). It contains detailed metadata about Netflix's content.
 
@@ -33,7 +35,7 @@ This project utilizes a dataset sourced from
 ├── requirements.txt    # Python dependencies and versions
 ├── README.md           # Project-specific documentation
 ```
-### Requirements
+## Requirements
 This project requires Python 3.8 or higher and Jupyter Notebook.
 
 All required Python packages and their exact versions are listed in the [`requirements.txt`](./requirements.txt) file.
@@ -43,17 +45,17 @@ To install the dependencies, run the following command in your terminal or comma
 ```bash
 pip install -r requirements.txt
 ```
-### Getting Started
+## Getting Started
 To run this project locally and reproduce the analysis, follow these steps:
 
-#### 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/saurabh-kudesia/real-world-ai-projects.git
 cd real-world-ai-projects/structured-eda/uncovering-trends-in-netflix-content/
 ````
 
-#### 2. Set Up the Environment
+### 2. Set Up the Environment
 Create a virtual environment (recommended) and install dependencies.
 
 * **Using `pip`:**
@@ -70,7 +72,7 @@ Or manually install core libraries if `requirements.txt` is not present:
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-#### 3. Launch the Jupyter Notebook
+### 3. Launch the Jupyter Notebook
 > ⚠️ Make sure you have Python installed, along with Jupyter Notebook.
 > Specific package versions are listed in [`requirements.txt`](./requirements.txt).
 
@@ -78,7 +80,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook source/uncovering-trends-in-netflix-content-sk.ipynb
 ```
 
-### License
+## License
 © 2025 Saurabh Kudesia
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided you include proper attribution and retain the license notice.
