@@ -8,7 +8,7 @@
 ## Context  
 The EMNIST dataset extends the MNIST dataset by providing handwritten characters derived from the [NIST Special Database 19](https://www.nist.gov/srd/nist-special-database-19). It consists of 28x28 pixel images formatted to be compatible with MNIST. Details on the dataset and its conversion are available in the original paper: [https://arxiv.org/abs/1702.05373v1](https://arxiv.org/abs/1702.05373v1).
 
-> > 🔧🚧 **Heads-up: This Code Is a Work in Progress**
+> 🔧🚧 **Heads-up: This Code Is a Work in Progress**
 >
 > I'm continuously improving and refining the code as time allows, but there’s no fixed schedule for updates or new features.
 
