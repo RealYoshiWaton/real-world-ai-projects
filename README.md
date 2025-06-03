@@ -10,6 +10,7 @@ This repository features practical and research-driven projects in:
 - Structured Exploratory Data Analysis (EDA)
    - [Uncovering Trends in Netflix Content](structured-eda/uncovering-trends-in-netflix-content/)
 - Deep Learning and Neural Networks
+   - [Handwritten Character Recognition with EMNIST](deep-learning-nn/handwritten-character-recognition/)
 - Supervised and Unsupervised Learning
 - Natural Language Processing (NLP)
 - Computer Vision
