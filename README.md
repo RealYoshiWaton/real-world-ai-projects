@@ -27,7 +27,7 @@ real-world-ai-projects/
 ├── project-category/              # Thematic or functional grouping of related projects
 │   └── project-name/              # Individual project directory
 │       ├── README.md              # Documentation specific to this project
-│       ├── data/                  # Raw data files or scripts to load datasets
+│       ├── data/                  # Raw data files or scripts to load datasets (optional)
 │       ├── source/                # Jupyter notebooks and source code for analysis and modeling
 │       ├── requirements.txt       # List of Python dependencies for this project
 
