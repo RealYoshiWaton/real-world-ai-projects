@@ -1,9 +1,7 @@
 # Machine Learning in Action: Real-World AI Projects
-Welcome to my public repository dedicated to showcasing a growing collection of AI and machine learning projects. These projects reflect experimentation, learning, and application across various domains of artificial intelligence.
+Welcome to my public repository — perfect for learners, practitioners, and contributors interested in exploring and applying real-world machine learning and AI techniques. These projects reflect a journey of experimentation, learning, and hands-on implementation across various domains of artificial intelligence.
 
-> ⚠️ **Note**
->
-> This repository is an ongoing project and is continuously evolving. New AI and ML projects will be added regularly, so stay tuned for exciting updates!
+> ⚠️ **Note:** This repository is an ongoing project and is continuously evolving. New AI and ML projects will be added regularly — stay tuned for updates!
 
 ## 🚀 What's Inside?
 This repository features practical and research-driven projects in:
@@ -34,6 +32,21 @@ real-world-ai-projects/
 │       ├── requirements.txt       # List of Python dependencies for this project
 
 ```
+
+## How to Use
+To run any project:
+1. Navigate to the relevant folder under `project-category/`.
+2. Review the `README.md` in that folder for instructions.
+3. Set up your environment using the `requirements.txt` file.
+4. Run the notebooks or Python scripts inside the `source/` directory.
+
+Projects use a variety of standard Python libraries including:
+
+- `pandas`, `NumPy`, `scikit-learn` for data science
+- `TensorFlow` and `PyTorch` for deep learning
+- `spaCy`, `NLTK` for NLP
+- `OpenCV` for computer vision
+- Tools like `Flask`, `FastAPI`, or `Streamlit` for deployment (coming soon)
 
 ## 📅 Roadmap
 Here's what to expect in future updates:
