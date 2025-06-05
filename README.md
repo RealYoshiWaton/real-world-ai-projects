@@ -59,7 +59,7 @@ Here's what to expect in future updates:
 Stay tuned and star ⭐ this repo if you'd like to follow along!
 
 ## Articles & Writing
-In addition to this code repository, I actively write about data science, machine learning, and practical project workflows on platforms like Medium and Kaggle. See the full list [here](ARTICLES.md)
+In addition to this code repository, I actively write about data science, machine learning, and practical project workflows on platforms like Medium and Kaggle. See the full list [here](ARTICLES.md).
 These pieces complement the projects here with deeper context, theory, and lessons learned.
 
 ## License
