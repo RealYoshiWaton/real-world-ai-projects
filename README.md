@@ -58,6 +58,10 @@ Here's what to expect in future updates:
 
 Stay tuned and star ⭐ this repo if you'd like to follow along!
 
+## 📚 Articles & Writing
+In addition to this code repository, I actively write about data science, machine learning, and practical project workflows on platforms like Medium and Kaggle. See the full list [here](ARTICLES.md)
+These pieces complement the projects here with deeper context, theory, and lessons learned.
+
 ## 📜 License
 All projects in this repository are © 2025 Saurabh Kudesia and licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided that proper attribution is given and the original license notice is retained. Please note that portions of the projects — such as datasets, code references, or assets — may be sourced from third-party providers and remain subject to their respective licenses and terms of use. 
 Some icons used in this repository are provided by [Font Awesome](https://fontawesome.com), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
