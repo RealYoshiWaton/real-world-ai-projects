@@ -3,7 +3,7 @@ Welcome to my public repository — perfect for learners, practitioners, and con
 
 > ⚠️ **Note:** This repository is an ongoing project and is continuously evolving. New AI and ML projects will be added regularly — stay tuned for updates!
 
-## 🚀 What's Inside?
+## What's Inside?
 This repository features practical and research-driven projects in:
 - Structured Exploratory Data Analysis (EDA)
    - [Uncovering Trends in Netflix Content](structured-eda/uncovering-trends-in-netflix-content/)
@@ -18,7 +18,7 @@ This repository features practical and research-driven projects in:
 
 Each project will be self-contained with code, documentation, and instructions.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 real-world-ai-projects/
@@ -48,7 +48,7 @@ Projects use a variety of standard Python libraries including:
 - `OpenCV` for computer vision
 - Tools like `Flask`, `FastAPI`, or `Streamlit` for deployment (coming soon)
 
-## 📅 Roadmap
+## Roadmap
 Here's what to expect in future updates:
 - Baseline ML models with clean code
 - Model training & evaluation pipelines
@@ -58,22 +58,25 @@ Here's what to expect in future updates:
 
 Stay tuned and star ⭐ this repo if you'd like to follow along!
 
-## 📚 Articles & Writing
+## Articles & Writing
 In addition to this code repository, I actively write about data science, machine learning, and practical project workflows on platforms like Medium and Kaggle. See the full list [here](ARTICLES.md)
 These pieces complement the projects here with deeper context, theory, and lessons learned.
 
-## 📜 License
+## License
 All projects in this repository are © 2025 Saurabh Kudesia and licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided that proper attribution is given and the original license notice is retained. Please note that portions of the projects — such as datasets, code references, or assets — may be sourced from third-party providers and remain subject to their respective licenses and terms of use. 
 Some icons used in this repository are provided by [Font Awesome](https://fontawesome.com), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-## 🤝 Contributing
+## Contributing
 Have ideas or suggestions? Contributions are welcome!
 
 - Open an issue for bugs or feature requests
 - Fork the repo and create a pull request for contributions
 - Check each project's README for contribution guidelines (if any)
 
-## 💬 Let's Connect
+## Let's Connect
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saurabh-kudesia)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saurabhkudesia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkudesia/)
+
+
+
