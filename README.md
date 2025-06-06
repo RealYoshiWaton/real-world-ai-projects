@@ -5,10 +5,13 @@ Welcome to my public repository — perfect for learners, practitioners, and con
 
 ## What's Inside?
 This repository features practical and research-driven projects in:
-- Structured Exploratory Data Analysis (EDA)
+- **Structured Exploratory Data Analysis (EDA)**
    - [Uncovering Trends in Netflix Content](structured-eda/uncovering-trends-in-netflix-content/)
-- Deep Learning and Neural Networks
+   - [Analyzing IPL Trends: Insights from 2008 to 2019](/structured-eda/analyzing-ipl-trends/)
+
+- **Deep Learning and Neural Networks**
    - [Handwritten Character Recognition with EMNIST](deep-learning-nn/handwritten-character-recognition/)
+
 - Supervised and Unsupervised Learning
 - Natural Language Processing (NLP)
 - Computer Vision
@@ -18,11 +21,15 @@ This repository features practical and research-driven projects in:
 
 Each project will be self-contained with code, documentation, and instructions.
 
+## Articles & Writing
+In addition to this code repository, I actively write about data science, machine learning, and practical project workflows on platforms like Medium and Kaggle. See the full list [here](ARTICLES.md). These pieces complement the projects here with deeper context, theory, and lessons learned.
+
 ## Repository Structure
 
 ```
 real-world-ai-projects/
 ├── README.md                      # Overview of the entire repository
+├── ARTICLES                       # Articles on data science, machine learning, and practical project workflows
 ├── LICENSE                        # Repository license and usage terms
 ├── project-category/              # Thematic or functional grouping of related projects
 │   └── project-name/              # Individual project directory
@@ -57,10 +64,6 @@ Here's what to expect in future updates:
 - Mini case studies and data stories
 
 Stay tuned and star ⭐ this repo if you'd like to follow along!
-
-## Articles & Writing
-In addition to this code repository, I actively write about data science, machine learning, and practical project workflows on platforms like Medium and Kaggle. See the full list [here](ARTICLES.md).
-These pieces complement the projects here with deeper context, theory, and lessons learned.
 
 ## License
 All projects in this repository are © 2025 Saurabh Kudesia and licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code, provided that proper attribution is given and the original license notice is retained. Please note that portions of the projects — such as datasets, code references, or assets — may be sourced from third-party providers and remain subject to their respective licenses and terms of use. 
