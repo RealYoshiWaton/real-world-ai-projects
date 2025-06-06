@@ -12,7 +12,8 @@ This repository features practical and research-driven projects in:
 - **Deep Learning and Neural Networks**
    - [Handwritten Character Recognition with EMNIST](deep-learning-nn/handwritten-character-recognition/)
 
-- Supervised and Unsupervised Learning
+- **Supervised and Unsupervised Learning**
+   - [Performance Analysis of Linear Models for Salary Prediction](/supervised-unsupervised-learning/perf-analysis-linear-models/)
 - Natural Language Processing (NLP)
 - Computer Vision
 - Reinforcement Learning
@@ -80,6 +81,3 @@ Have ideas or suggestions? Contributions are welcome!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saurabh-kudesia)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/saurabhkudesia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkudesia/)
-
-
-
