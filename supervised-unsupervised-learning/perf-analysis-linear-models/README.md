@@ -13,7 +13,7 @@ The primary focus of this analysis is to assess how well these models predict sa
 
 ## Data Dictionary
 This project utilizes a dataset sourced from
-[Kaggle]https://www.kaggle.com/code/saurabhkudesia/analysis-of-linear-models-with-salary-predictions).
+[Kaggle](https://www.kaggle.com/code/saurabhkudesia/analysis-of-linear-models-with-salary-predictions).
 
 > 🔧🚧 **Heads-up: This Code Is a Work in Progress**
 >
