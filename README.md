@@ -13,6 +13,7 @@ This repository features practical and research-driven projects in:
    - [Handwritten Character Recognition with EMNIST](deep-learning-nn/handwritten-character-recognition/)
 
 - **Supervised and Unsupervised Learning**
+   - [Predict Wild Blueberry Yield | Kaggle Playground Series S3](https://github.com/saurabh-kudesia/real-world-ai-projects/tree/main/supervised-unsupervised-learning/predict-blueberry-yield/)
    - [Performance Analysis of Linear Models for Salary Prediction](/supervised-unsupervised-learning/perf-analysis-linear-models/)
 - Natural Language Processing (NLP)
 - Computer Vision
