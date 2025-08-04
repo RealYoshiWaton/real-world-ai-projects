@@ -16,6 +16,7 @@ This repository features practical and research-driven projects in:
    - [Predict Wild Blueberry Yield | Kaggle Playground Series S3](https://github.com/saurabh-kudesia/real-world-ai-projects/tree/main/supervised-unsupervised-learning/predict-blueberry-yield/)
    - [Performance Analysis of Linear Models for Salary Prediction](/supervised-unsupervised-learning/perf-analysis-linear-models/)
 - Natural Language Processing (NLP)
+   - [A Decade of Togetherness: Uncovering Sentiments and Trends in WhatsApp Group Chats]
 - Computer Vision
 - Reinforcement Learning
 - Time Series Forecasting
